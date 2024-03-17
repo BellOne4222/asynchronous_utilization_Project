@@ -6,6 +6,12 @@
 
 ## 🖥️ 프로젝트 소개
 공지사항 API에 동기와 비동기를 구분하여 동기 방식에 비해 java completeFuture 비동기 방식의 활용을 통해 성능적으로 개선되는 방법 및 nGrinder 부하테스트를 통해서 성능적으로 향상을 확인하는 프로젝트
+
+<br>
+
+## 프로젝트 상세 페이지
+- https://elastic-caraway-da9.notion.site/Asynchronism-Performance-Improvement-Project-921f899003544a7facb562393a1e27e5
+
 <br>
 
 # 📖 프로젝트 환경
